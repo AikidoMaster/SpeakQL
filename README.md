@@ -6,6 +6,10 @@
 
 SpeakQL is an AI-powered platform that revolutionizes the way you interact with databases and CSV files. Whether you're querying a SQL database or exploring CSV datasets, SpeakQL allows you to communicate in natural language—removing the need for complex SQL or manual data manipulation.
 
+![Alt Text](Image1.png)
+
+![Alt Text](Image2.png)
+
 With the power of OpenAI and LangChain, SpeakQL enables intuitive conversations about your data. Just ask questions, and let the platform handle everything from SQL query generation to CSV analysis.
 
 ## Key Features ✨
